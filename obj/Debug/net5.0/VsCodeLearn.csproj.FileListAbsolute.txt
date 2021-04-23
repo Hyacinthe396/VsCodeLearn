@@ -1,0 +1,16 @@
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.exe
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.deps.json
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.runtimeconfig.json
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.runtimeconfig.dev.json
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.dll
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\ref\VsCodeLearn.dll
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\bin\Debug\net5.0\VsCodeLearn.pdb
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.csprojAssemblyReference.cache
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.AssemblyInfoInputs.cache
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.AssemblyInfo.cs
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.csproj.CoreCompileInputs.cache
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.dll
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\ref\VsCodeLearn.dll
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.pdb
+C:\Users\cheeth\Documents\C#Projects\VsCodeLearn\obj\Debug\net5.0\VsCodeLearn.genruntimeconfig.cache
